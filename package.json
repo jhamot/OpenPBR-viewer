@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@vitejs/plugin-react": "^4.2.1",
+    "@vitejs/plugin-react": "^4.3.0",
     "progressbar.js": "^1.1.1",
     "lil-gui": "^0.19.1",
     "stats.js": "^0.17.0",
